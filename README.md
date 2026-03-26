@@ -11,18 +11,24 @@ Interests: Data Analysis , ML , Cyber security
 
 
 ## 🔧 Skills
-- Python  
-- Networking Basics (OSI, TCP/IP, VLAN, Routing, Wireshark)  
-- Cybersecurity Fundamentals  
-- Git & GitHub
+- Data Analysis ( ML , Visualization | Pandas_python | )
+- Customer Service , Teaching 
+- Cybersecurity fundamentals 
 - Online marketing 
 
 ---
 
-## 🚀 Projects 
-- Built and manage Organic Dharma website , online listings and social media presence ( organicdharma.org) 
-- 2nd place  Stanford's DSU Data Analytics Competition (20 universities | 3 states)
-- Travel to differnt parts of south dakota as a part of my CybHER mission . Read more in resume . 
+🚀 Projects & Experience
+
+🌿 Organic Dharma — Digital Marketing & Operations Lead (Jan 2024 – Present)
+I build and maintain the website, manage e-commerce listings, and run social media and ad campaigns for one of Nepal's established organic food companies.
+🔗 organicdharma.org
+
+📊 Stanford's DSU Data Analytics Competition
+2nd place finish across 20 universities and 3 states.
+
+🛡️ CybHER Leader — Dakota State University
+Travel to different parts of South Dakota leading outreach sessions to inspire the next generation of women in cybersecurity and STEM.
 
 
 --
